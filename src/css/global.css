@@ -1,0 +1,16 @@
+.userform{
+    border:1px solid black;
+    margin: auto;
+    width: 50%;
+    border: 3px solid green;
+    padding: 10px;
+    padding-right:80px;
+    text-align:right;
+}
+.userform label,input{
+    margin: 1%;
+}
+.btn{
+    text-align: center;
+    
+}
